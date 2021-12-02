@@ -1,7 +1,5 @@
-import ProductBundlesTable from "./ProductBundleTable";
-import DummyData from "./DummyData";
+import ModifierGroupView from "./ModifierGroupView";
 
 export {
-    ProductBundlesTable,
-    DummyData
+    ModifierGroupView
 }
